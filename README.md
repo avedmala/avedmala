@@ -5,7 +5,7 @@ I'm Abhinav Vedmala, a student at the University of Maryland 🐢, pursuing a Ba
 Outside of class, I'm currently:
 - 👨🏽‍💻 interning as a software engineer at Capital One's Tech Incubator
 - ☕️ leading discussions sections as a teaching assistant for CMSC 132 (Object-Oriented Programming)
-- 🧪 conducting research as an undergrad assistant with the Stereo Winds Lab at NASA Goddard
+- 🛰 conducting research as an undergrad assistant with the Stereo Winds Lab at NASA Goddard
 
 I'm most interested in back end development and algorithms. These are the most satisfying problems for me to solve and I want to gain more depth in these areas as well as breadth in other areas.
 
