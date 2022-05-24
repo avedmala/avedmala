@@ -1,15 +1,15 @@
-## Hello! 👋
+## Hi, I'm Abhinav! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-I'm Abhinav Vedmala, a student at the University of Maryland 🐢, pursuing a Bachelor's degree in Computer Science.
+🐢 Studying Computer Science at the University of Maryland, College Park.
 
-Outside of class, I'm currently:
-- 👨🏽‍💻 interning as a software engineer at Capital One's Tech Incubator
-- ☕️ leading discussions sections as a teaching assistant for CMSC 132 (Object-Oriented Programming)- 
-- 🛰 conducting research as an undergrad assistant with the Stereo Winds Lab at NASA Goddard
+👨🏽‍💻 Interning as a Software Engineer at PayPal.
 
-I'm most interested in back-end development and algorithms. These are the most satisfying problems for me to solve and I want to gain more depth in these areas as well as breadth in other areas.
+🛰 Consulting for the Stereo Winds Lab at NASA GSFC.
 
-<!---
-avedmala/avedmala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨🏽‍🏫 Facilitating the Student Initiated Course, CMSC 389O (The Coding Interview).
+
+💡 I'm most interested in back-end development and algorithms.
+
+🔎 You can find me on LinkedIn [here](https://www.linkedin.com/in/avedmala/).
+
+![](https://komarev.com/ghpvc/?username=avedmala&color=brightgreen)
