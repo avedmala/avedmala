@@ -2,10 +2,6 @@
 
 🐢 Studying Computer Science at the University of Maryland, College Park
 
-🛰 Consulting for the Stereo Winds Lab at NASA GSFC
-
-👨🏽‍🏫 Facilitating the Student Initiated Course, CMSC 389O (The Coding Interview)
-
-💡 I'm most interested in distributed systems and algorithms
+💡 I'm most interested in distributed systems and parallel computing
 
 🔎 You can find me on LinkedIn [here](https://www.linkedin.com/in/avedmala/)
