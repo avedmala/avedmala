@@ -2,6 +2,6 @@
 
 🐢 Studying Computer Science at the University of Maryland, College Park
 
-💡 I'm most interested in backend and infrastructure
+💡 I'm most interested in distributed systems and infrastructure
 
 🔎 You can find me on LinkedIn [here](https://www.linkedin.com/in/avedmala/)
